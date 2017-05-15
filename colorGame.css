@@ -21,10 +21,10 @@ body {
 	margin: 1.66%;
 }
 
-h1, #colorDisplay {
+h1 {
 	color: white;
 }
 
-span {
-	color: black;
+.selected {
+	background: blue;
 }
